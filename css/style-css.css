@@ -27,9 +27,10 @@ body {
     background-image: url("../images/illustration-hero.svg");
     background-size: cover;
 }
-.order-sammery h4 {
+.order-sammery h1 {
     color: var(--Dark-blue);
     font-weight: 900;
+    font-size: 24px;
     padding-top: 35px;
 }
 .order-sammery p {
@@ -67,7 +68,7 @@ body {
     color: #fff;
     font-size: 13px;
     font-weight: 700;
-    padding: 10px;
+    padding: 10px 5rem;
     box-shadow: 0 15px 20px hsl(245deg 75% 52% / 30%);
 }
 .order-sammery .cancel {
